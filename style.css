@@ -9,6 +9,7 @@ body h1 h2 h3 h4 h5 h6{
 }
 .navbar {
 	background: #e0e0e0;
+	padding: 0;
 }
 .navbar-nav {
 	
@@ -23,8 +24,9 @@ body h1 h2 h3 h4 h5 h6{
 	align-items: center;
 }
 
-.navbar ul{
-    text-align: center;
+.navbar ul {
+	text-align: center;
+	margin-bottom: 0;
 }
 .navbar ul li{
     display: inline-block;
